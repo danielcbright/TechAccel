@@ -51,7 +51,7 @@ We want to recognize the individuals who played a pivotal role in developing the
 
 - <img src="./images/kimmo.jpeg" alt="Kimmo Niemi" width="100px"> **Kimmo Niemi**
 - <img src="./images/chrisp.jpeg" alt="Chris P" width="100px"> **Chris P**
-- <img src="./images/contributor3.jpeg" alt="Shweta Khosla" width="100px"> **Shweta Khosla**
+- <img src="./images/shweta.jpeg" alt="Shweta Khosla" width="100px"> **Shweta Khosla**
 - <img src="./images/danielb.jpeg" alt="Daniel Bright" width="100px"> **Daniel Bright**
 - <img src="./images/contributor3.jpeg" alt="Savithri" width="100px"> **Savithri**
 - <img src="./images/anam.jpeg" alt="Anam" width="100px"> **Anam**
