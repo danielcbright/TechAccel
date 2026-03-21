@@ -35,7 +35,7 @@ For details on contributing to the framework, refer to the [Contribution Guide](
 
 ## License
 
-The TechAccel Framework is licensed under the [MIT License](./LICENSE.md).
+The TechAccel Framework is licensed under the [MIT License](./LICENSE).
 
 ---
 
@@ -53,7 +53,7 @@ We want to recognize the individuals who played a pivotal role in developing the
 - <img src="./images/chrisp.jpeg" alt="Chris P" width="100px"> **Chris P**
 - <img src="./images/shweta.jpeg" alt="Shweta Khosla" width="100px"> **Shweta Khosla**
 - <img src="./images/danielb.jpeg" alt="Daniel Bright" width="100px"> **Daniel Bright**
-- <img src="./images/contributor3.jpeg" alt="Savithri" width="100px"> **Savithri**
+- <img src="./images/savithri.png" alt="Savithri" width="100px"> **Savithri**
 - <img src="./images/anam.jpeg" alt="Anam" width="100px"> **Anam**
 
 ---
