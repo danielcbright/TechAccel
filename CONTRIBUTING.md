@@ -22,8 +22,8 @@ Thank you for your interest in contributing to the **TechAccel Framework (TAF)**
 ## Getting Started
 
 Before contributing, please:
-1. **Read the [TechAccel Framework](https://github.com/danielcbright/TechAccel/blob/initial_branch/techaccel_framework.md)** to understand the framework and its goals.
-2. Familiarize yourself with Git and GitHub if you’re new to them. [GitHub’s Guide](https://guides.github.com/introduction/git-handbook/) is a great place to start.
+1. **Read the [TechAccel Framework](./techaccel_framework.md)** to understand the framework and its goals.
+2. Familiarize yourself with Git and GitHub if you’re new to them. [GitHub’s Guide](https://docs.github.com/en/get-started/using-git/about-git) is a great place to start.
 3. Check the **[open issues](https://github.com/danielcbright/TechAccel/issues)** to see what’s currently being worked on or discussed.
 
 ---
@@ -110,7 +110,7 @@ Key points:
 
 ## License
 
-The TechAccel Framework is licensed under the [MIT License](./LICENSE.md). By contributing, you agree that your contributions will also be licensed under the MIT License, ensuring the framework remains open, adaptable, and accessible to all.
+The TechAccel Framework is licensed under the [MIT License](./LICENSE). By contributing, you agree that your contributions will also be licensed under the MIT License, ensuring the framework remains open, adaptable, and accessible to all.
 
 ---
 

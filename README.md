@@ -20,7 +20,7 @@ This framework enables organizations to streamline technology adoption, mitigate
 ## Getting Started
 
 To get started with the TechAccel Framework, read the full documentation here:
-[TechAccel Framework Document](https://github.com/danielcbright/TechAccel/blob/initial_branch/techaccel_framework.md).
+[TechAccel Framework Document](./techaccel_framework.md).
 
 For details on contributing to the framework, refer to the [Contribution Guide](./CONTRIBUTING.md).
 
